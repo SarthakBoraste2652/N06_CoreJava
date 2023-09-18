@@ -1,4 +1,4 @@
-//this keyword is used to current class constructor or method
+//this keyword is used to call current class constructor or method
 
 package org.tnsif.thiskeyworddemo;
 class Team
